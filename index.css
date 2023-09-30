@@ -1,0 +1,55 @@
+#boxes{
+    content:"";
+    display: table;
+    clear: both;
+    padding-top: 20px;
+    }
+    div{
+        float: center;
+        height: auto;
+        width: 450px;
+    }
+    #box{
+        border: 0px;
+        background-color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        text-align: center;
+        padding-bottom: 50px;
+    }
+    .p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        text-align: left;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-bottom: 20px;
+    }
+    .tb{
+        height: 35px;
+        width: 78%;
+        color: gray;
+        padding-left: 20px;
+        }
+    .tb:hover{
+        cursor:text;
+    }
+    a{
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(243, 52, 87);
+        font-size: 12px;
+        text-decoration: none;
+    }
+    a:hover{
+        cursor: pointer;
+    }
+    #image{
+        width: 100%;
+    }
+    .button{
+        height: 40px;
+        width: 85%;
+        border: none;
+        background-color: rgb(243, 52, 87);
+    }
